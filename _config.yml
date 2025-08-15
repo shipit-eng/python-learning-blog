@@ -1,0 +1,15 @@
+title: Kristine's Python Blog
+description: Learning Python one step at a time
+author: Kristine Lillie
+email: your-email@example.com
+theme: jekyll-theme-cayman
+
+# Optional settings
+show_excerpts: true
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
+
+# Social links (optional)
+social:
+  github: kristinelillie
+  twitter: kristinelillie
